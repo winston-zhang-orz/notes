@@ -10,3 +10,7 @@
 | ONNX Runtime      | Cross-platform, high-performance scoring engine for Open Neural Network Exchange (ONNX) models | [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) | 8                             |
 | Ray Serve         | Scalable model serving built on Ray                                         | [ray-project/ray](https://github.com/ray-project/ray) | 8                             |
 | PyTorch Serving   | High-performance serving framework for PyTorch models                       | [pytorch/serve](https://github.com/pytorch/serve) | 7                             |
+
+
+# Feature Flags
+https://zhuanlan.zhihu.com/p/496746255#:~:text=%E4%BB%8EFeature%20f
